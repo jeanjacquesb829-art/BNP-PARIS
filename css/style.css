@@ -1,0 +1,85 @@
+body {
+‎  font-family: Arial;
+‎  background: #f1f1f1;
+‎  margin: 0;
+‎}
+‎
+‎.logo {
+‎  width: 120px;
+‎  display: block;
+‎  margin: auto;
+‎  margin-bottom: 20px;
+‎}
+‎
+‎.login-page .login-box, .pin-box {
+‎  width: 85%;
+‎  max-width: 380px;
+‎  margin: auto;
+‎  margin-top: 70px;
+‎  padding: 25px;
+‎  background: white;
+‎  border-radius: 10px;
+‎  text-align: center;
+‎}
+‎
+‎input {
+‎  width: 90%;
+‎  padding: 12px;
+‎  margin: 10px 0;
+‎  border-radius: 8px;
+‎  border: 1px solid #ccc;
+‎}
+‎
+‎button {
+‎  width: 95%;
+‎  padding: 12px;
+‎  background: #1b8f5a;
+‎  color: white;
+‎  border: none;
+‎  border-radius: 8px;
+‎  font-size: 16px;
+‎  cursor: pointer;
+‎}
+‎
+‎.link {
+‎  color: #0b73d9;
+‎  cursor: pointer;
+‎  margin-top: 10px;
+‎}
+‎
+‎.dashboard .header-balance {
+‎  background: #8de6a2;
+‎  padding: 20px;
+‎  text-align: center;
+‎}
+‎
+‎.qr-box {
+‎  background: white;
+‎  margin: 20px;
+‎  padding: 20px;
+‎  border-radius: 10px;
+‎  text-align: center;
+‎}
+‎
+‎.qr {
+‎  width: 160px;
+‎}
+‎
+‎.grid {
+‎  display: grid;
+‎  grid-template-columns: repeat(4, 1fr);
+‎  text-align: center;
+‎}
+‎
+‎.item img {
+‎  width: 45px;
+‎}
+‎
+‎.item p {
+‎  font-size: 13px;
+‎}
+‎
+‎#history {
+‎  padding: 20px;
+‎}
+
